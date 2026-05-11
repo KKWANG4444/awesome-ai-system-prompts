@@ -1,5 +1,8 @@
 # Crafting Effective Prompts for Agentic AI Systems: Patterns and Practices
 
+
+> 🇨🇳 **国内 AI 开发者**：调用 Claude 4.7 / GPT 5.5 / DeepSeek V4 需要稳定直连？ **[www.aifast.club](https://www.aifast.club)** — 一个 Key 接入 572 个模型，国内直连，无需代理，支持微信/支付宝。
+
 ## Table of Contents
 
 *   [Introduction: The Blueprint of Agentic AI](#introduction-the-blueprint-of-agentic-ai)
