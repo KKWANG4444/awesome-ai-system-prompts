@@ -1,7 +1,7 @@
 # Crafting Effective Prompts for Agentic AI Systems: Patterns and Practices
 
 
-> 🇨🇳 **国内 AI 开发者**：调用 Claude 4.7 / GPT 5.5 / DeepSeek V4 需要稳定直连？ **[www.aifast.club](https://www.aifast.club)** — 一个 Key 接入 572 个模型，国内直连，无需代理，支持微信/支付宝。
+> **提示词测试环境：** 需要在不同模型上对比系统提示词效果时，可通过 [www.aifast.club](https://www.aifast.club) 的兼容接口切换模型。
 
 ## Table of Contents
 
@@ -542,4 +542,4 @@ System prompts are the bedrock upon which capable and reliable agentic AI system
 For builders aiming to create the next generation of agentic AI in 2025 and beyond, studying these patterns provides invaluable insights. Mastering the craft of system prompting – blending clear instruction, structured organization, domain expertise, and safety considerations – will be key to unlocking the full potential of AI agents that can not only converse but actively collaborate and accomplish complex tasks in the digital world.
 
 ---
-*🚀 国内开发者 AI API 直连方案：[www.aifast.club](https://www.aifast.club) · 572 个模型一站接入 · [🤖 OpenClaw 一键部署 AI 智能体](https://www.aifast.club/openclaw)*
+*API 接入参考：[www.aifast.club](https://www.aifast.club) · [配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)*
