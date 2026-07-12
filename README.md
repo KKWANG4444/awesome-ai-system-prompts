@@ -1,7 +1,7 @@
 # Crafting Effective Prompts for Agentic AI Systems: Patterns and Practices
 
 
-> **提示词测试环境：** 需要在不同模型上对比系统提示词效果时，可通过 [www.aifast.club](https://www.aifast.club) 的兼容接口切换模型。
+> **跨模型测试提示词：** 用同一套 OpenAI 兼容调用切换模型，参考 [配置示例](https://github.com/KKWANG4444/ai-api-proxy-china-guide)；示例端点来自 [www.aifast.club](https://www.aifast.club)。
 
 ## Table of Contents
 
@@ -542,4 +542,4 @@ System prompts are the bedrock upon which capable and reliable agentic AI system
 For builders aiming to create the next generation of agentic AI in 2025 and beyond, studying these patterns provides invaluable insights. Mastering the craft of system prompting – blending clear instruction, structured organization, domain expertise, and safety considerations – will be key to unlocking the full potential of AI agents that can not only converse but actively collaborate and accomplish complex tasks in the digital world.
 
 ---
-*API 接入参考：[www.aifast.club](https://www.aifast.club) · [配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide)*
+*接入参考：[OpenAI 兼容配置指南](https://github.com/KKWANG4444/ai-api-proxy-china-guide) · [模型状态](https://kkwang4444.github.io/api-status/) · [示例端点](https://www.aifast.club)*
